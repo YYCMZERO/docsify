@@ -1,12 +1,12 @@
 * 演示
-  * [后台管理](home1)
-  * [移动端](home2)
+  * [后台管理](http://www.macrozheng.com/admin/index.html)
+  * [移动端](http://www.macrozheng.com/app/index.html)
 
-* 项目地址
-  * [bar](bar/)
-  * [a文件](bar/a)
-  * [b文件](bar/b)
+* 项目地址(https://github.com/macrozheng/mall)
+  * [前端项目](https://github.com/macrozheng/mall-admin-web)
+  * [学习教程](https://github.com/macrozheng/mall-learning)
+  * [项目骨架](https://github.com/macrozheng/mall-tiny)
 
 * SpringCloud
   * [SpringCloud版本](https://github.com/macrozheng/mall-swarm)
-  * [SpringCloud教程](foo/one)
+  * [SpringCloud教程](https://github.com/macrozheng/springcloud-learning)
